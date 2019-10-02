@@ -15,3 +15,6 @@ $ java -jar pinkponymongo.jar path\to\.git localhost db  27017 commits
 * `db` : database name
 * `27017` : port number
 * `commits` : collection name
+
+##### Pink pony  
+You can use also the [Pink Pony](https://github.com/Pavlmits/PinkPony) application that suggests functional clusters based on the common changes on git.
